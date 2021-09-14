@@ -8,5 +8,5 @@ Eu sou Sidney Fernando.
 
 - 🔭 Atualmente sou estudante de Engenharia Aeroespacial.
 - 📫 Contate-me: sidney092k@gmail.com / www.linkedin.com/in/sidneyFernando
-- ⚡ Fun fact: Todo hoje é um amanhã de um ontem.
+- ⚡ Fun fact: Todo hoje foi um amanhã de algum ontem.
 
