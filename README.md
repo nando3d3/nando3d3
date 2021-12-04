@@ -13,17 +13,12 @@ Here are some ideas to get you started:-->
 <hr>
 <p>
   
-  Para entrar em contato comigo: <br>
-  <span>
-    <a href="mailto:sidney092k@gmail.com" target="_blank">
+  Para entrar em contato comigo: <br> &nbsp;
+    <a href="mailto:sidney092k@gmail.com" target="_blank" >
       <img src="https://cdn-icons-png.flaticon.com/512/2250/2250130.png" width="30px">
-     </a>
-   </span>
-   <span>
+     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sidneyFernando" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/143/143627.png" width="30px">
       </a>
-    
-   </span>
             
             
 </p>
