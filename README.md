@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 <!--<div>-->
 
 <p>
-            Eu me chamo Sidney Fernando. Sou estudante de Engenharia Aeroespacial e me interesso bastante por tecnologia, programação e sua aplicação. 
+            Eu me chamo Sidney Fernando. Sou estudante de Engenharia de Software e me interesso bastante por tecnologia, programação e sua aplicação. 
             <img src="https://cdn-icons-png.flaticon.com/512/3902/3902021.png" width="20px">
 </p>
 <hr>
